@@ -3,5 +3,8 @@
   "osintToken": "7649139573:mYkEIwuZ",
   "parseNikUrl": "https://015log.com/cek_nik.php?nik=",
   "limit": 100,
-  "lang": "id"
+  "lang": "id",
+  "blacklisted_numbers": [
+    "628565394116"
+  ]
 }
