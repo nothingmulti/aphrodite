@@ -1,14 +1,14 @@
 {
   "osintApiUrl": "https://leakosintapi.com/",
-  "osintToken": "7760380628:zWs9NH6c",
+  "osintToken": "7677687641:ooTBnoBr",
   "parseNikUrl": "https://015log.com/cek_nik.php?nik=",
   "searchNameUrl": "https://api-pddikti.kemdiktisaintek.go.id/pencarian/all/",
   "limit": 100,
   "lang": "id",
   "blacklisted_numbers": ["628565394116", "+628565394116"],
-  "vipKey": "maklo",
+  "freeKey": "free",
+  "vipKey": "maklu",
   "youtubeChannel": "https://youtube.com/@onlyhiroo",
   "telegramUser": "@jsaphro",
-  "isActivated": false,
   "freeSearchLimit": 5
 }
