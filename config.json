@@ -4,7 +4,5 @@
   "parseNikUrl": "https://015log.com/cek_nik.php?nik=",
   "limit": 100,
   "lang": "id",
-  "blacklisted_numbers": [
-    "628565394116"
-  ]
+  "blacklisted_numbers": []
 }
