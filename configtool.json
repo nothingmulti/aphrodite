@@ -1,0 +1,10 @@
+{
+  "osintApiUrl": "https://leakosintapi.com/",
+  "osintToken": "7677687641:ooTBnoBr",
+  "parseNikUrl": "https://015log.com/cek_nik.php?nik=",
+  "limit": 100,
+  "lang": "id",
+  "blacklisted_numbers": ["62895339403", "62895336788"],
+  "activationKey": "APHRODITE-BNDJR-2025-PREMIUM",
+  "isActivated": false
+}
