@@ -1,7 +1,7 @@
 {
   "osintApiUrl": "https://leakosintapi.com/",
   "osintToken": "7649139573:mYkEIwuZ",
-  "parseNikUrl": "https://015log.com/cek_nik.php?nik=",
+  "parseNikUrl": "https://015log.com/parsenik.php?nik=",
   "limit": 100,
   "lang": "id",
   "blacklisted_numbers": [
